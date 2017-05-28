@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+published: true
 ---
 
 <div class="home">
@@ -20,7 +21,7 @@ title: Home
           {% else %}
           {{ post.excerpt }}
           {% endif %} 
-          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">read more  </a>
         </p> 
       </div>
       <footer class="post_meta">
