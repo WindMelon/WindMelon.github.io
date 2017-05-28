@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: PAT甲级1002 A+B FOR POLYNOMIALS
+category: PAT-A
+description: PAT甲级1002
+published: true
 ---
 ##1002. A+B for Polynomials (25)
 
