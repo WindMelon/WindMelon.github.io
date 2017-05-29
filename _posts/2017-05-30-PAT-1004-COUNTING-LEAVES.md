@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: PAT甲级1004 COUNTING LEAVES
+category: PAT-A
+description: PAT甲级1004
+published: true
 ---
 ## 1004. Counting Leaves (30)
 A family hierarchy is usually presented by a pedigree tree. Your job is to count those family members who have no child.
