@@ -5,7 +5,7 @@ category: PAT-A
 description: PAT甲级1002
 published: true
 ---
-##1002. A+B for Polynomials (25)
+## 1002. A+B for Polynomials (25)
 
 A family hierarchy is usually presented by a pedigree tree. Your job is to count those family members who have no child.
 Input
