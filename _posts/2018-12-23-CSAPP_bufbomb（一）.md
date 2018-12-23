@@ -7,7 +7,6 @@ published: true
 ---
 # CSAPP:bufbomb（一）
 
-标签（空格分隔）： csapp实验 逆向工程
 
 ---
 
