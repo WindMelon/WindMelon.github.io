@@ -5,11 +5,6 @@ category: CSAPP_LAB
 description: CSAPP:bufbomb
 published: true
 ---
-# CSAPP:bufbomb（一）
-
-
----
-
 ##BufBomb简介
 bufbomb是csapp课程的系列实验中的一个，要求掌握程序运行时栈帧的状态，通过往给定大小的数组中写入超过限定大小的字符达到覆写栈中的程序返回指针，使程序跳转到指定位置，或者执行操作者自定义的代码段
 
