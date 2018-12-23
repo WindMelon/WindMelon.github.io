@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: InfoSec:CSRF&XSS
 category: InfoSec_LAB
