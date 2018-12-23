@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: InfoSec:Https
 category: InfoSec_LAB
