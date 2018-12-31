@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: InfoSec:ClickJacking
 category: InfoSec_LAB
